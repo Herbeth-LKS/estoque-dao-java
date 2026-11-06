@@ -79,6 +79,9 @@ automaticamente na primeira gravação. Cada linha possui quatro campos
 separados por tabulação: `id`, `nome`, `preço` e `quantidade`. A pasta
 `dados/` é ignorada pelo Git.
 
+Os dados em memória são perdidos ao trocar de fonte ou encerrar o programa.
+Já os dados gravados no arquivo permanecem entre as execuções.
+
 ## Tecnologias
 
 - Java 17
