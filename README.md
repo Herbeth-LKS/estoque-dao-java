@@ -6,7 +6,9 @@ em Java, separando a lógica de negócio do acesso aos dados por meio do padrão
 
 ## Integrantes
 
+- Felipe Medeiros Castello Branco
 - Herbeth Lucas de Sousa Pereira
+- Samuel Pereira da Silva Varão
 
 ## Objetivo
 
